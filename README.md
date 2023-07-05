@@ -15,7 +15,7 @@ _Adicionalmente, se nos animó a agregar una funcionalidad adicional de conversi
 ```
 - Java Development Kit (JDK) 17 o superior. https://www.java.com/es/download/
 - Gson para la deserializacion de JSON. https://github.com/google/gson
-- Conexcion a internet para obtener las tasas actualizadas (de lo contrario el programa realizara la conversion a 1.0 siempre).
+- Conexion a internet para obtener las tasas actualizadas (de lo contrario el programa realizara la conversion a 1.0 siempre).
 - API key de ExchangeRate-API si la mia ya no funciona (opcional). https://www.exchangerate-api.com/docs/java-currency-api
 ```
 
