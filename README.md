@@ -44,7 +44,7 @@ _Aqui se muestran las funciones del programa:_
 
 ## Creditos :star2:
 
-* **Angel Pacheco** - *Desarrollo del proyecto* - [LinkedIn](https://www.linkedin.com/in/angel-sobri-pacheco/https://github.com/villanuevan) [GitHub](https://github.com/constSobri)
+* **Angel Pacheco** - *Desarrollo del proyecto* - [LinkedIn](https://www.linkedin.com/in/angel-temporal-pacheco/https://github.com/villanuevan) [GitHub](https://github.com/classTemporal)
 * **Google** - *Libreria Gson* - [Google](https://github.com/google/gson)
 * **Oracle** - *Oportunidad de estudiar desarrollo gracias a ellos* - [Oracle](https://www.oracle.com)
 * **Alura Latam** - *Aprendizaje necesario para la realizacion de este programa* - [Alura Latam](https://www.aluracursos.com)
